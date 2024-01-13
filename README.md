@@ -1,7 +1,8 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# Tower of Babel Game
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
-
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
-
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+1. Run the file TowerOfBabel.py
+2. Pick your the difficulty you wish to challenge
+3. Pick your champion
+4. Explore the 5 floors of the Tower of Babel
+5. Collect coins to exchange for equipment
+6. Defeat the boss on the 5th floor and conquer the tower
